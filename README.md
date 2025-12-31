@@ -9,14 +9,18 @@
 
  to run the checksum validator/fixer:
     open terminal
-    ```console
+    ```
     python3 C:\path\to\checksum_calc.py C:\path\to\Save_Slot_1
     ```
 
  alternatively for linux, mac:
     open terminal
-    ```console
+    ```
     cd C:\path\to\project
+    ```
+    ```
     chmod +x checksum_calc.py
+    ```
+    ```
     ./checksum_calc.py Save_Slot_1
-    ``
+    ```
